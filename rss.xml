@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Renold Beratung]]></title>
         <description><![CDATA[Renold Beratung]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/renold-beratung/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Mar 2016 20:39:33 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 28 Mar 2016 20:46:30 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/renold-beratung/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/74dc82c1-a979-4d24-a970-d1912c99b6b1.jpg">]]></description>
+            <link>https://thegrid.ai/renold-beratung/5ebc231f-6dc8-470c-b46d-05243e453a7f/index.html</link>
+            <guid isPermaLink="false">5ebc231f-6dc8-470c-b46d-05243e453a7f</guid>
+            <pubDate>Mon, 28 Mar 2016 20:46:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Gugus was hälst du davon?</p>]]></description>
-            <link>undefinedgugus-was-halst-du-davon/index.html</link>
+            <link>https://thegrid.ai/renold-beratung/gugus-was-halst-du-davon/index.html</link>
             <guid isPermaLink="false">f49eea66-7828-4249-9e13-ed573ed70243</guid>
             <pubDate>Mon, 28 Mar 2016 20:39:27 GMT</pubDate>
         </item>
