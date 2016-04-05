@@ -1,29 +1,41 @@
-name: Renold Beratung
-favicon: null
-layout_spectrum: 0.29040258983150125
-typography_spectrum: 0.8880380592308939
 title: Renold Beratung
 cta:
-  domain: null
-  bucket: null
   version: null
+  bucket: null
+  domain: null
+layout_spectrum: 0.2904025898315012
+favicon: null
+name: Renold Beratung
+purpose: []
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
 color:
-  brandColors:
-    - '#fffdf6'
-    - '#0a1416'
-    - '#343f41'
-    - '#6a5f43'
-    - '#c1a75e'
-  brandStrength: 0.75
+  brandStrength: 0.8553191
   lightness: 1
   saturation: 0.25
   rhythmicContrast: 0.5
-purpose: []
+  brandColors:
+    - '#160C0A'
+    - '#FFFFFF'
+    - '#FFB477'
+    - '#FFFBA3'
+    - '#885C42'
+typography_spectrum: 0.8880380592308939
