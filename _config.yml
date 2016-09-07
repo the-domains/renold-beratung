@@ -28,6 +28,9 @@ navigation:
   - name: theater anundpfirsich
     url: 'https://www.pfirsi.ch'
     type: external
+  - name: Über mich
+    id: 5ebc231f-6dc8-470c-b46d-05243e453a7f
+    type: content
 favicon: null
 collections:
   - index:
