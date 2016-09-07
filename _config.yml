@@ -1,4 +1,3 @@
-layout_spectrum: 0.8957637154962867
 typography_spectrum: 0.5901060423348099
 color:
   brandStrength: 0.8553191
@@ -15,6 +14,7 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.8957637154962867
 analytics:
   facebook: null
   google: null
@@ -44,5 +44,5 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: Renold Beratung
+title: Immer etwas gutes
 purpose: []
